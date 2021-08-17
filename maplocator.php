@@ -188,7 +188,7 @@ include("navbar.php");
        function doNothing() {}
   </script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCs9vjUN0Qs2DDAXITRU_7aMRggdToc5R8&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=XXXXX&callback=initMap">
     </script>
 	</div>
 	</div>
